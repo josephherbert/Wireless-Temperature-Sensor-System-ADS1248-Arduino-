@@ -16,6 +16,5 @@ For the wireless transmission of data, the RN42-XV module was used with Bluetoot
 The project folder contains:
 1. Arduino_Code: The Arduino code for setting up and reading the temperature data from each of the sensors using the ADS1248. The code also includes the setting up and the bluetooth device and for transmitting the data.
 2. Schematic_Overview: A schematic of the ICs, microcontrollers and sensors employed.
-3. PCB: The final PCB designed for this application which is entirely optional and only specific to the application and independent of the code or schematic.
 
 NOTE: One of my biggest objectives in preparing this project repository is making this code accessible to anyone struggling with integrating the ADS1248 and the Arduino or even just setting up the ADS1248 itself. I had multiple conversations with TI in order to figure this out. I really hope posting this here will help anyone else attempting to do the same.
